@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cced8427-8f5e-460b-8925-70948f79c6a6" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1oVsiDO6NAi2HzGVGynkOjgtyEB" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\git_repos\RaidClicker\ruloRaidTool\src\main\resources\data" />
+      <recent name="D:\git_repos\RaidClicker\ruloRaidTool\src\main\java\fxml" />
+      <recent name="D:\git_repos\RaidClicker\ruloRaidTool\src\main\java\view" />
+      <recent name="D:\git_repos\RaidClicker\ruloRaidTool\src\main\java\sample" />
+      <recent name="D:\git_repos\RaidClicker\ruloRaidTool\src\main\java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="view" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\git_repos\RaidClicker\ruloRaidTool\src\main\resources\data" />
+      <recent name="D:\git_repos\RaidClicker\ruloRaidTool\src\main\resources\clip" />
+      <recent name="D:\git_repos\RaidClicker\ruloRaidTool\target\classes\images" />
+      <recent name="D:\git_repos\RaidClicker\ruloRaidTool\src\main\resources\images" />
+      <recent name="D:\git_repos\RaidClicker\ruloRaidTool\src\main\java\model" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.MainApp">
+    <configuration name="ASIFTMatchingExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="utils.ASIFTMatchingExample" />
+      <module name="RuloRaidTool" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CopyImagetoClipBoard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="utils.CopyImagetoClipBoard" />
+      <module name="RuloRaidTool" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KeyListener" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="utils.KeyListener" />
+      <module name="RuloRaidTool" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.MainApp" />
+      <module name="RuloRaidTool" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainApp" />
+        <item itemvalue="Application.ASIFTMatchingExample" />
+        <item itemvalue="Application.KeyListener" />
+        <item itemvalue="Application.CopyImagetoClipBoard" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cced8427-8f5e-460b-8925-70948f79c6a6" name="Default Changelist" comment="" />
+      <created>1613383216142</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613383216142</updated>
+      <workItem from="1613383219213" duration="3142000" />
+      <workItem from="1613592675505" duration="3559000" />
+      <workItem from="1613668946150" duration="599000" />
+      <workItem from="1613825731733" duration="8982000" />
+      <workItem from="1613902368053" duration="14069000" />
+      <workItem from="1614421028891" duration="17234000" />
+      <workItem from="1614518555624" duration="3022000" />
+      <workItem from="1614536713526" duration="641000" />
+      <workItem from="1614621970985" duration="10089000" />
+      <workItem from="1614706030856" duration="605000" />
+      <workItem from="1614801061984" duration="2453000" />
+      <workItem from="1614883243997" duration="3280000" />
+      <workItem from="1615032559023" duration="3761000" />
+      <workItem from="1615049103711" duration="2686000" />
+      <workItem from="1615139499126" duration="2494000" />
+      <workItem from="1615566568500" duration="2085000" />
+      <workItem from="1615630089626" duration="11790000" />
+      <workItem from="1615668194642" duration="2467000" />
+      <workItem from="1615919689378" duration="1109000" />
+      <workItem from="1616001056834" duration="6520000" />
+      <workItem from="1616088031167" duration="8023000" />
+      <workItem from="1616241474494" duration="8819000" />
+      <workItem from="1616345669684" duration="949000" />
+      <workItem from="1617036915899" duration="1755000" />
+      <workItem from="1617038928704" duration="3937000" />
+      <workItem from="1617206772973" duration="6949000" />
+      <workItem from="1617291652341" duration="12065000" />
+      <workItem from="1617355515214" duration="14533000" />
+      <workItem from="1617440853531" duration="23650000" />
+      <workItem from="1617521820792" duration="5649000" />
+      <workItem from="1617610818737" duration="22932000" />
+      <workItem from="1617733952266" duration="759000" />
+      <workItem from="1617815581406" duration="597000" />
+      <workItem from="1617906294197" duration="782000" />
+      <workItem from="1617983805820" duration="1781000" />
+      <workItem from="1618062039967" duration="596000" />
+      <workItem from="1618071635904" duration="1790000" />
+      <workItem from="1618146754409" duration="598000" />
+      <workItem from="1618246929126" duration="1877000" />
+      <workItem from="1619252513685" duration="723000" />
+      <workItem from="1619254138288" duration="109000" />
+      <workItem from="1619254269922" duration="3289000" />
+      <workItem from="1619870078967" duration="614000" />
+      <workItem from="1620487440926" duration="622000" />
+      <workItem from="1620488174699" duration="54000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/utils/ASIFTMatchingExample.java</url>
+          <line>79</line>
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

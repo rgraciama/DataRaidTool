@@ -1,0 +1,14 @@
+utils\CopyImagetoClipBoard$TransferableImage.class
+utils\FileManagement.class
+utils\ASIFTMatchingExample.class
+utils\KeyListener.class
+main\MainApp.class
+utils\CopyImagetoClipBoard.class
+utils\MKeyListener.class
+controller\PersonEditDialogController.class
+utils\DateUtil.class
+controller\PersonOverviewController.class
+domain\Champion.class
+controller\RootLayoutController.class
+model\PersonList.class
+domain\ChampionKeypoints.class
